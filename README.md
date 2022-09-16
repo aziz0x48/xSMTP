@@ -77,6 +77,43 @@ $ python3 -m pip install -r requirements.txt
 - pip install requirements.txt
 - py xsmtp.py
 ```
+# Usage  :rescue_worker_helmet:
+## Start xSMTP with python3
+```
+python3 xsmtp.py
+```
+## Get IP Ranges from Website ASN
+```
+> 1
+Enter a website url:
+> some-domain.com
+```
+<p align="center"><img src="https://raw.githubusercontent.com/c99tn/xSMTP/main/bin/option1.gif"></p>
+
+
+
+## Check IP Ranges
+```
+> 2   
+[1] - Listen For Recommended Ports [2525,587]
+[2] - Listen For All Ports [25,2525,465,587]
+> 1
+How many threads to use ?
+(Recommended : 50)
+> 50
+```
+<p align="center"><img src="https://raw.githubusercontent.com/c99tn/xSMTP/main/bin/option2.gif"></p>
+
+
+
+## Scan SMTP
+```
+> 1
+> some-domain.com
+```
+<p align="center"><img src="https://raw.githubusercontent.com/c99tn/xSMTP/main/bin/option3.gif"></p>
+
+
 
 # Contact  :speech_balloon:
 Got a question ?  
@@ -93,3 +130,8 @@ vMass Bot was created for educational purposes only, Any actions and or activiti
 <img src="https://raw.githubusercontent.com/c99tn/Randoms/master/telegram_button_icon_151837.png?token=GHSAT0AAAAAABVX6V7OOUCJTCCDNVAXPHCMYYIHTNA" width="200" height="50">
 </a>
 </p>
+
+
+# Legal
+Copyright (c) 2022 by @c99tn. Some rights reserved.   
+xSMTP is under the terms of the MIT License, following all clarifications stated in the license file.
