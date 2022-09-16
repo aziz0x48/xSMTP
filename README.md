@@ -24,11 +24,11 @@
 ![Screenshot from xSMTP sep16,2022](https://github.com/c99tn/xSMTP/blob/main/bin/screenshot.png?raw=true)
 
 <p align="center">
-<a href="https://github.com/c99tn/xSMTP/edit/main/README.md">Requirements</a> ◦ 
-<a href="https://github.com/c99tn/xSMTP/edit/main/README.md">Installation</a> ◦ 
-<a href="https://github.com/c99tn/xSMTP/edit/main/README.md">Usage</a> ◦
-<a href="https://github.com/c99tn/xSMTP/edit/main/README.md">Disclaimer</a> ◦
-<a href="https://github.com/c99tn/xSMTP/edit/main/README.md">Contact</a>
+<a href="#requirements-wrench">Requirements</a> ◦ 
+<a href="#installation-package">Installation</a> ◦ 
+<a href="#usage--rescue_worker_helmet">Usage</a> ◦
+<a href="#disclaimer-bangbang">Disclaimer</a> ◦
+<a href="#contact--speech_balloon">Contact</a>
 </p>
 
 **xSMTP** is a lightning fast, multithreaded scanner written in Python, capable of scanning massive network ranges and find open relay and unsecured SMTP servers inside. ranges can be directly setted in the ranges.txt file or gathered by performing an ASN Lookup, the user can input any website in mind and the tool will make an API Call to external third party services ( <a href="">ipinfo.io</a> and <a href="">api.hackertarget.com</a> ) where all the IP Ranges of the website's ASN will be fetched and saved in ranges.txt file.
