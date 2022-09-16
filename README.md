@@ -108,8 +108,11 @@ How many threads to use ?
 
 ## Scan SMTP
 ```
-> 1
-> some-domain.com
+> 3
+Enter your email 
+> dpr@priv8toolz.com
+Enter Threads
+> 50
 ```
 <p align="center"><img src="https://raw.githubusercontent.com/c99tn/xSMTP/main/bin/option3.gif"></p>
 
