@@ -21,7 +21,7 @@
   </a>
 </p>
 
-![Screenshot from xSMTP sep16,2022](https://github.com/c99tn/xSMTP/blob/main/bin/screenshot.png?raw=true)
+<!-- ![Screenshot from xSMTP sep16,2022](https://github.com/c99tn/xSMTP/blob/main/bin/screenshot.png?raw=true) -->
 
 <p align="center">
 <a href="#requirements-wrench">Requirements</a> ◦ 
