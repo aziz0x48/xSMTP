@@ -5,7 +5,7 @@
   xSMTP
   <br>
 </h1>
-<h4 align="center">xSMTP :mosquito: The One And Only open-relay SMTP servers Scanner Tool On Github </h4>
+<h4 align="center">xSMTP :mosquito: The One And Only Open-Relay SMTP servers Scanner Tool On Github </h4>
 <p align="center">
   <a href="https://github.com/c99tn/xSMTP">
     <img src="https://img.shields.io/badge/license-MIT-orange">
