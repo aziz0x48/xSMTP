@@ -31,7 +31,7 @@
 <a href="#contact--speech_balloon">Contact</a>
 </p>
 
-**xSMTP** is a lightning fast, multithreaded scanner written in Python, capable of scanning massive network ranges and find open relay and unsecured SMTP servers inside. ranges can be directly setted in the ranges.txt file or gathered by performing an ASN Lookup, the user can input any website in mind and the tool will make an API Call to external third party services ( <a href="">ipinfo.io</a> and <a href="">api.hackertarget.com</a> ) where all the IP Ranges of the website's ASN will be fetched and saved in ranges.txt file.
+**xSMTP** is a lightning fast, multithreaded scanner written in Python, capable of scanning massive network ranges and find open-relay and unsecured SMTP servers inside. ranges can be directly setted in the ranges.txt file or gathered by performing an ASN Lookup, the user can input any website in mind and the tool will make an API Call to external third party services ( <a href="">ipinfo.io</a> and <a href="">api.hackertarget.com</a> ) where all the IP Ranges of the website's ASN will be fetched and saved in ranges.txt file.
 
 with the gathered ranges, xSMTP generates all available hosts and can perform a very fast check and see if hosts can listen on the most used smtp ports (2525,587..) and saves the good hosts on list.txt file, then a mass SMTP scan can be performed, where the tool will try to send a test email with the hosts gathered in list.txt containing the smtp info in the email body, if the smtp server is open-relay/unsecured!
 
