@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/c99tn/xSMTP"><img src="https://raw.githubusercontent.com/c99tn/xSMTP/main/bin/xsmtp.png" alt="" width="300" height="200"></a>
-  <br>
+  <br> 
   xSMTP
   <br>
 </h1>
